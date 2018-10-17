@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMongo", "SampleMongo\SampleMongo.csproj", "{1866FA3A-A2AE-4638-9EF2-13518EE96364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1866FA3A-A2AE-4638-9EF2-13518EE96364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1866FA3A-A2AE-4638-9EF2-13518EE96364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1866FA3A-A2AE-4638-9EF2-13518EE96364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1866FA3A-A2AE-4638-9EF2-13518EE96364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16012635-DE95-424E-BD68-D77BABE2B130}
+	EndGlobalSection
+EndGlobal
